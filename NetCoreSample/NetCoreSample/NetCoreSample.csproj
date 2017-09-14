@@ -12,4 +12,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RefProj\RefProj.csproj" />
+  </ItemGroup>
+
 </Project>
